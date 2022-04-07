@@ -1,63 +1,43 @@
-[
-  {
-    "id": 1,
-    "Question": "In school, Albert Einstein failed most of the subjects, except for physics and math.",
-    "Answer": "Yes",
-    
-    
-  },
-  {
-    "id": 2,
-    "Question": "The first song ever sung in the space was “Happy Birthday.",
-    "Answer": "Yes",
-    
-    
-  },{
-    "id": 3,
-    "Question": "The first country in the world to use postcards was the United States of America.",
-    "Answer": "No",
-    
-    
-  },{
-    "id": 4,
-    "Question": "Tea contains more caffeine than coffee and soda.",
-    "Answer": "No",
-    
-    
-  },{
-    "id": 5,
-    "Question": "Bill Gates is the founder of Amazon.",
-    "Answer": "No",
-    
-    
-  },{
-    "id": 6,
-    "Question": "Mice have more bones than humans.",
-    "Answer": "Yes",
-    
-    
-  },{
-    "id": 7,
-    "Question": "The first product with a bar code was chewing gum.",
-    "Answer": "Yes",
-    
-    
-  },{
-    "id": 8,
-    "Question": "The star is the most common symbol used in all national flags around the world.",
-    "Answer": "Yes",
-    
-    
-  },{
-    "id": 9,
-    "Question": "Black is the most commonly used colour in all national flags around the world.",
-    "Answer": "No",
-    
-    
-  },{
-    "id": 10,
-    "Question": "The FIFA World Cup 2022 will take place in Iran.",
-    "Answer": "No",
-    
-    
-  }]
+[{
+		"id": 1,
+		"Question": "In school, Albert Einstein failed most of the subjects, except for physics and math.",
+		"Answer": "Yes"
+	},
+	{
+		"id": 2,
+		"Question": "The first song ever sung in the space was “Happy Birthday.",
+		"Answer": "Yes"
+	}, {
+		"id": 3,
+		"Question": "The first country in the world to use postcards was the United States of America.",
+		"Answer": "No"
+	}, {
+		"id": 4,
+		"Question": "Tea contains more caffeine than coffee and soda.",
+		"Answer": "No"
+	}, {
+		"id": 5,
+		"Question": "Bill Gates is the founder of Amazon.",
+		"Answer": "No"
+	}, {
+		"id": 6,
+		"Question": "Mice have more bones than humans.",
+		"Answer": "Yes"
+	}, {
+		"id": 7,
+		"Question": "The first product with a bar code was chewing gum.",
+		"Answer": "Yes"
+	}, {
+		"id": 8,
+		"Question": "The star is the most common symbol used in all national flags around the world.",
+		"Answer": "Yes"
+	}, {
+		"id": 9,
+		"Question": "Black is the most commonly used colour in all national flags around the world.",
+		"Answer": "No"
+	}, {
+		"id": 10,
+		"Question": "The FIFA World Cup 2022 will take place in Iran.",
+		"Answer": "No"
+	}
+]
